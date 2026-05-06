@@ -3,6 +3,7 @@
 Student with an interest in programming, cybersecurity, ethical hacking
 
 [Other account](https://github.com/beak2825)
+[Main site repo](https://github.com/jarivizero/jarivizero.github.io)
 
 <div align="center">
 
